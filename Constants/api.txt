@@ -1,0 +1,1 @@
+api call :https://api.openweathermap.org/data/2.5/weather?q={cityname}&appid=8624b9e2691c79bb622f65a65f80cc23
